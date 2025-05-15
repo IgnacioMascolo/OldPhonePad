@@ -1,0 +1,14 @@
+D:\_busquedaLaboral\ironSoftware\C#_Coding_Challenge\codingChallenge\bin\Debug\net9.0\codingChallenge.exe
+D:\_busquedaLaboral\ironSoftware\C#_Coding_Challenge\codingChallenge\bin\Debug\net9.0\codingChallenge.deps.json
+D:\_busquedaLaboral\ironSoftware\C#_Coding_Challenge\codingChallenge\bin\Debug\net9.0\codingChallenge.runtimeconfig.json
+D:\_busquedaLaboral\ironSoftware\C#_Coding_Challenge\codingChallenge\bin\Debug\net9.0\codingChallenge.dll
+D:\_busquedaLaboral\ironSoftware\C#_Coding_Challenge\codingChallenge\bin\Debug\net9.0\codingChallenge.pdb
+D:\_busquedaLaboral\ironSoftware\C#_Coding_Challenge\codingChallenge\obj\Debug\net9.0\codingChallenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\_busquedaLaboral\ironSoftware\C#_Coding_Challenge\codingChallenge\obj\Debug\net9.0\codingChallenge.AssemblyInfoInputs.cache
+D:\_busquedaLaboral\ironSoftware\C#_Coding_Challenge\codingChallenge\obj\Debug\net9.0\codingChallenge.AssemblyInfo.cs
+D:\_busquedaLaboral\ironSoftware\C#_Coding_Challenge\codingChallenge\obj\Debug\net9.0\codingChallenge.csproj.CoreCompileInputs.cache
+D:\_busquedaLaboral\ironSoftware\C#_Coding_Challenge\codingChallenge\obj\Debug\net9.0\codingChallenge.dll
+D:\_busquedaLaboral\ironSoftware\C#_Coding_Challenge\codingChallenge\obj\Debug\net9.0\refint\codingChallenge.dll
+D:\_busquedaLaboral\ironSoftware\C#_Coding_Challenge\codingChallenge\obj\Debug\net9.0\codingChallenge.pdb
+D:\_busquedaLaboral\ironSoftware\C#_Coding_Challenge\codingChallenge\obj\Debug\net9.0\codingChallenge.genruntimeconfig.cache
+D:\_busquedaLaboral\ironSoftware\C#_Coding_Challenge\codingChallenge\obj\Debug\net9.0\ref\codingChallenge.dll
